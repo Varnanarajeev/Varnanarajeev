@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Varnana Rajeev
 - 👀 I love to dance 
-- 🌱 I’m currently learning Gen-Ai
-- 📫 How to reach me @varnanarajeev@gmail.com
+- 🌱 I’m trying to deep dive into genAi and believe me its so much fun!!
+- 📫 How to reach me : @varnanarajeev@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+- ⚡ Stop me on Linkdln: @VarnanaRajeev 
 
 <!---
 Varnanarajeev/Varnanarajeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
